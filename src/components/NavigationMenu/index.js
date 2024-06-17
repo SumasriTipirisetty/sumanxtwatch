@@ -101,7 +101,7 @@ const NavigationMenu = () => (
               />
             </SocialMediaContainer>
             <ContactInfo darkTheme={darkTheme}>
-              Enjoy! Now to see your channels and recommendations!
+              Stay connected with us for exclusive content and updates!
             </ContactInfo>
           </ContactContainer>
         </NavigationContainer>

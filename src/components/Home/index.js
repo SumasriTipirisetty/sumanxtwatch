@@ -111,11 +111,11 @@ class Home extends Component {
           <BannerContainer data-testid="banner">
             <BannerDetails>
               <BannerImage
-                src="https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-light-theme-img.png"
+                src="https://res.cloudinary.com/dlqylhhfa/image/upload/v1718604265/Screenshot_2303_ewuyst.png"
                 alt="nxt watch logo"
               />
               <BannerInfo>
-                Buy Nxt Watch Premium prepaid plans with UPI
+                Buy Nextwatch Video Streaming Premium prepaid plans with UPI
               </BannerInfo>
               <GetItNowButton>GET IT NOW</GetItNowButton>
             </BannerDetails>

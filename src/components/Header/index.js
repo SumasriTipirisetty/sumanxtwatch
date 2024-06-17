@@ -48,8 +48,8 @@ const Header = props => {
       {value => {
         const {darkTheme, onChangeTheme, activeTab, onChangeActiveTab} = value
         const logo = darkTheme
-          ? 'https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-dark-theme-img.png'
-          : 'https://assets.ccbp.in/frontend/react-js/nxt-watch-logo-light-theme-img.png'
+          ? 'https://res.cloudinary.com/dlqylhhfa/image/upload/v1718605101/Nextwatch_logo_project_dark_mode_xcfifq.png'
+          : 'https://res.cloudinary.com/dlqylhhfa/image/upload/v1718604265/Screenshot_2303_ewuyst.png'
 
         const changeHomeTab = () => {
           onChangeActiveTab('Home')

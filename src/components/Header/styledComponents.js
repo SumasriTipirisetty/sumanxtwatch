@@ -17,8 +17,8 @@ export const NavContainer = styled.nav`
 `
 
 export const Logo = styled.img`
-  width: 100px;
-  height: 30px;
+  width: 170px !important;
+  height: 50px !important;
   @media screen and (min-width: 768px) {
     width: 105px;
     height: 35px;
